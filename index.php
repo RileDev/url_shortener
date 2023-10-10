@@ -45,7 +45,7 @@
                     <div class="input-group mb-3">
                         <span class="input-group-text" id="basic-addon1">Url</span>
                         <input type="text" name="url" class="form-control" placeholder="URL Link Address" aria-label="URL Link Address" aria-describedby="basic-addon1" required>
-                        <button class="btn btn-outline-primary" type="submit" id="button-addon2">Button</button>
+                        <button class="btn btn-outline-primary" type="submit" id="button-addon2">Short</button>
                     </div>
                 </form>
             </section>
